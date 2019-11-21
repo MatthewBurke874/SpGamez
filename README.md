@@ -3,7 +3,7 @@
   	<meta charset="utf-8">
   	<link rel="stylesheet" type="text/css" href="">
   </head>
-  <body text="Black" style="background: url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg); background-size: 80%">
+  <body text="Black" style="background: url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg); background-size: 100%">
   	<div class="search-box">
   		<input class="search-txt" type="text" name=""  placeholder="Type to search">
   		<a class="search-btn" href='#'>
