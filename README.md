@@ -4,11 +4,8 @@
   	<meta charset="utf-8">
     <title>Login and Registration Form Design</title>
   	<link rel="stylesheet" type="text/css" href="">
-    <style>
-      body { background: url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg; background-size: 100% 100%; }
-    </style> 
   </head>
-  <body>  
+  <body style = "background: url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg); background-size: 100%;">  
       <div class="login-page">
       <div class="form">
          <form class="register-form"/>
