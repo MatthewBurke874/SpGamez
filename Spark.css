@@ -45,7 +45,7 @@ body{
   width: 0px;
 }
  body{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(pic1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
