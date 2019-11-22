@@ -20,12 +20,12 @@
          <button>login</button>
         <p class="message">Not Registered? <a href="#">Register</a></p>
          </form>
-      <div class="search-box">          
+      <div class="search-box">
+      </div>                       
   		<input class="search-txt" type="text" name=""  placeholder="Type to search">
   		<a class="search-btn" href='#'>
     <i class="fas fa-search"></i>  
   		</a>
-  	</div>
     <script src='https://code.jquery.com/jquery-3.2.1.min.js'
     </script>
     <script>
