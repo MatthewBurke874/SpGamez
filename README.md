@@ -1,10 +1,11 @@
 <html lang="en" dir="ltr">
   <head>
   	<meta charset="utf-8">
+    <title>Login and Registration Form Design</title>
   	<link rel="stylesheet" type="text/css" href="">
   </head>
-  <body text="Black" style="background: url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg); background-size: 100%">
-    <div class="login-page">
+  <body text="Black" style="background: url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg); 
+      <div class="login-page">
       <div class="form">
          <form class="register-form"/>
          <input type="text" placeholder="user name"/>
@@ -19,7 +20,7 @@
          <button>login</button>
         <p class="message">Not Registered? <a href="#">Register</a></p>
          </form>
-  	<div class="search-box">
+      <div class="search-box">          
   		<input class="search-txt" type="text" name=""  placeholder="Type to search">
   		<a class="search-btn" href='#'>
     <i class="fas fa-search"></i>  
