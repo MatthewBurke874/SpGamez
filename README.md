@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
   	<meta charset="utf-8">
-    <title>Login and Registration Form Design</title>
+    <h2>Login and Registration Form Design</h2>
   	<link rel="stylesheet" type="text/css" href="">
   </head>
   <body style = "background: url(https://cdn4.vectorstock.com/i/1000x1000/44/13/funny-cartoon-whale-jumps-out-of-the-water-vector-13784413.jpg); background-size: 100%;">  
