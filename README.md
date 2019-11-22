@@ -20,9 +20,9 @@
          <button>login</button>
         <p class="message">Not Registered? <a href="#">Register</a></p>
          </form>
-      <div class="search-box">
-      </div>                       
-  		<input class="search-txt" type="text" name=""  placeholder="Type to search">
+         </div>                                              
+         <div class="search-box">
+         <input class="search-txt" type="text" name=""  placeholder="Type to search">
   		<a class="search-btn" href='#'>
     <i class="fas fa-search"></i>  
   		</a>
@@ -45,6 +45,7 @@
        <h2><p style='padding: 2px 6px 4px 20px; background-color: #339FFF; border: #FFFFFF 2px solid'>Rpg</p></h2>
        <h3><p style='padding: 2px 6px 4px 20px; background-color: #339FFF; border: #FFFFFF 2px solid'>About</p></h3> 
        <h3><p style='padding: 2px 6px 4px 20px; background-color: #339FFF; border: #FFFFFF 2px solid'>Contact</p></h3>
+    </div>                  
   </body>
 </html>
 
